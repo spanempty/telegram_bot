@@ -10,7 +10,7 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
-const token = 'your_token';
+const token = process.env.TELEGRAM_BOT_TOKEN;
 
 const bot = new TelegramBot(token, {polling: true});
 
