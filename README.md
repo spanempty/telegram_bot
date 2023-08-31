@@ -16,7 +16,3 @@ Thank u for installing this. This is a chatGpt chating bot using node.js
 any error call +251 910 910 054
   
 ## went to help
-  
-u can send 💵💵💵 with this phone  +251 910 910 054 
-
-## only 1ETH - 100ETH not more than that
